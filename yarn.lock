@@ -362,9 +362,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@auth0/auth0-angular@npm:1.10.1":
-  version: 1.10.1
-  resolution: "@auth0/auth0-angular@npm:1.10.1"
+"@auth0/auth0-angular@file:./auth0-auth0-angular-1.10.0.tgz::locator=auth0-pnp%40workspace%3A.":
+  version: 1.10.0
+  resolution: "@auth0/auth0-angular@file:./auth0-auth0-angular-1.10.0.tgz::locator=auth0-pnp%40workspace%3A."
   dependencies:
     "@auth0/auth0-spa-js": ^1.22.0
     tslib: ^2.0.0
@@ -372,7 +372,7 @@ __metadata:
     "@angular/common": ">=9 <=14"
     "@angular/core": ">=9 <=14"
     "@angular/router": ">=9 <=14"
-  checksum: 38342167c6c4c33fa762aaea2d8366cabe7273e546e02118b2ee010dd1bac885a4118c9b538dab55f3ce4c9354fad12ed84bf498896cd78230950129d80c3802
+  checksum: ebe49598a6389e01f33a59983cc618fe395001f28833c98e512f01fb55c54e59ddbce3a69c0307b438f686bb63e11f2b4e35c2be1926297e2080fc9cc23a01d7
   languageName: node
   linkType: hard
 
@@ -2796,7 +2796,7 @@ __metadata:
     "@angular/platform-browser": ^14.0.0
     "@angular/platform-browser-dynamic": ^14.0.0
     "@angular/router": ^14.0.0
-    "@auth0/auth0-angular": 1.10.1
+    "@auth0/auth0-angular": "file:./auth0-auth0-angular-1.10.0.tgz"
     "@auth0/auth0-spa-js": 1.22.2
     "@types/jasmine": ~4.0.0
     jasmine-core: ~4.1.0
