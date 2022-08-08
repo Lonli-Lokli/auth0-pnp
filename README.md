@@ -1,6 +1,13 @@
+Demo for https://github.com/auth0/auth0-angular/issues/255
+
+Install yarn
+run yarn install
+run yarn start
+
 # Auth0Pnp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
+
 
 ## Development server
 
